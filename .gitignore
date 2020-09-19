@@ -1,0 +1,5 @@
+# Typescript
+/node_modules/
+
+# Editors
+/.idea/
