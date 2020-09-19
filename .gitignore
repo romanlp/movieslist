@@ -1,5 +1,7 @@
 # Typescript
+/dist/
 /node_modules/
+/.cache/
 
 # Editors
 /.idea/
